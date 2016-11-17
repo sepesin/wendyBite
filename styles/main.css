@@ -1,12 +1,12 @@
 body {
 	background-color: #424242;
 	color: #ffffff;
-	margin-left: 575px;
-	margin-right: 575px;
+	margin-left: 500px;
+	margin-right: 500px;
 	font-family: Georgia, serif;
-
-
-}
+	border: 4px solid #757575; 
+	padding: 30px;
+ }
 
 a {
 	color: #27b386;
@@ -34,5 +34,6 @@ img {
 p {
 	text-align: wrap;
 	line-height: 150%;
+
 }
 
