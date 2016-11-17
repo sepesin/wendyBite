@@ -1,0 +1,38 @@
+body {
+	background-color: #424242;
+	color: #ffffff;
+	margin-left: 575px;
+	margin-right: 575px;
+	font-family: Georgia, serif;
+
+
+}
+
+a {
+	color: #27b386;
+}
+
+header {
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+footer {
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+img {
+    float: right;
+    margin: 0 0 10px 10px;
+    padding: 5px;
+	border: 2px solid #757575;
+ }
+
+p {
+	text-align: wrap;
+	line-height: 150%;
+}
+
