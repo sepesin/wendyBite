@@ -1,8 +1,8 @@
 body {
 	background-color: #424242;
 	color: #ffffff;
-	margin-left: 500px;
-	margin-right: 500px;
+	margin-left: 20%;
+	margin-right: 20%;
 	font-family: Georgia, serif;
 	border: 4px solid #757575; 
 	padding: 30px;
@@ -37,3 +37,6 @@ p {
 
 }
 
+.experience {
+	font-size: 16px;
+}
